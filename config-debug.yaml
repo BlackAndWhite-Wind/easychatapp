@@ -1,0 +1,10 @@
+port: '8080'
+mysql:
+  host: '127.0.0.1'
+  port: '3306'
+  name: 'easy_chat'
+  user: 'root'
+  password: 'qwer697410'
+redis:
+  host: '81.68.251.185'
+  port: '6379'
